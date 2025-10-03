@@ -1,7 +1,4 @@
 This is created by Harsh Kumar. Sap ID : 590015264 Batch : 01
-About this Code:
-This is created by Manan Khandelwal. Sap ID : 590014164 Batch : 01
-
 About this code: This is a “Normalization Assistant” web tool. It helps students or database learners practice Database Normalization (1NF → 2NF → 3NF → BCNF). You enter Attributes (columns) and Functional Dependencies (FDs). The tool automatically computes: Attribute closures Candidate keys Prime attributes Normal form steps (detects violations of 2NF, 3NF, BCNF) Decompositions (relations in higher normal forms) Lossless join check Dependency preservation check This is auto-generated JavaScript + HTML so users can visualize normalization concepts without needing SQL engines. ⚙️ How the code is structured
 
 HTML Layout <!doctype html> → modern HTML5.
